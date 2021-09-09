@@ -6,8 +6,8 @@ https://github.com/fivethirtyeight/data/tree/master/police-deaths
 
 
 Next Steps:
-- Fix bugs
-- Add Seasonal Plot of a Time Series
+
 - Research why deaths peaked
+- Animated chorpleth map including a time component
 - Create Streamlit app to summarise 
 
